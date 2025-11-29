@@ -1,1 +1,1 @@
-# ChatSQL
+# SummarIQ
